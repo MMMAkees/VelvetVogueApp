@@ -226,6 +226,7 @@ if ($offer_result && $offer_result->num_rows > 0) {
 
 <header class="hero-banner">
   <div class="hero-content">
+    <h2>Welcome to Velvet Online Store</h2>
     <h1>Elegance is an Attitude</h1>
     <p>Discover the latest collection of premium fashion designed for you.</p>
     <a href="shop.php" class="btn btn-hero">Shop Collection</a>
