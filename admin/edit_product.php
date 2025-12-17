@@ -1,4 +1,5 @@
 <?php
+// Admin product edit page
 session_start();
 include __DIR__ . '/../dbConfig.php';
 
