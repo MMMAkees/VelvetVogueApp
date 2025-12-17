@@ -246,6 +246,7 @@ $monthly_revenue = array_reverse($monthly_revenue);
     </style>
 </head>
 <body>
+    <!-- // Admin dashboard layout and navigation -->
     <div class="container-fluid">
         <div class="row">
             <!-- Sidebar -->
