@@ -1,4 +1,9 @@
 <?php
+/**
+ * Page Name: Admin Dashboard
+ * Description: Handles admin overview and navigation
+ * Author: Developer
+ */
 session_start();
 include __DIR__ . '/../dbConfig.php';
 
