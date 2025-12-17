@@ -1,4 +1,5 @@
 <?php
+// Public home page design
 session_start();
 include 'dbConfig.php';
 
