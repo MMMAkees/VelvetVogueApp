@@ -170,6 +170,7 @@ if ($promo_result && $promo_result->num_rows > 0) {
       z-index: 1050;
       min-width: 300px;
     }
+    /* Button Style */
     .btn-add-to-cart {
       position: relative;
       overflow: hidden;
@@ -298,6 +299,7 @@ if ($promo_result && $promo_result->num_rows > 0) {
 </div>
 <?php endif; ?>
 
+<!-- Header Section -->
 <!-- NAVBAR -->
 <nav class="navbar navbar-expand-lg bg-white shadow-sm border-bottom sticky-top">
   <div class="container">
