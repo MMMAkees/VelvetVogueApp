@@ -1,5 +1,6 @@
 <?php
 // User home page after login
+// Home page layout
 session_start();
 include __DIR__ . '/../dbConfig.php';
 
