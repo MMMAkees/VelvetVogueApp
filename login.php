@@ -101,7 +101,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         <span class="input-group-text"><i class="fas fa-envelope"></i></span>
                         <input type="email" name="email" class="form-control" 
                                value="<?= isset($_POST['email']) ? htmlspecialchars($_POST['email']) : '' ?>" 
-                               placeholder="Enter your Email" required>
+                               placeholder="Enter your registered email address" required>
                     </div>
                 </div>
 
