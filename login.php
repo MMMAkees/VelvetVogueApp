@@ -127,7 +127,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </div>
 
     <div class="text-center mt-4 text-muted small">
-        © 2025 Velvet Vogue. All rights reserved.
+       <p>© 2025 Velvet. All Rights Reserved.</p>
     </div>
 </div>
 
