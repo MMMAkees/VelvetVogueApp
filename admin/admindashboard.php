@@ -1,4 +1,5 @@
 <?php
+// Admin Dashboard Page
 session_start();
 include __DIR__ . '/../dbConfig.php';
 
