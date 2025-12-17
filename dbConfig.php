@@ -1,3 +1,4 @@
+<!-- Database configuration file -->
 <?php
 $host = 'localhost';
 $db   = 'velvetvoguedb';
