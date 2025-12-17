@@ -75,6 +75,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         .btn-primary:hover { background: linear-gradient(45deg, #000000ff, #000000ff); }
     </style>
 </head>
+<!-- // Layout spacing adjusted for readability -->
 <body class="bg-light">
 
 <div class="container">
