@@ -1,5 +1,5 @@
 <?php
-// login.php - Secure Login using MySQLi + Prepared Statements
+// User login functionality
 require_once 'dbConfig.php';
 session_start();
 
