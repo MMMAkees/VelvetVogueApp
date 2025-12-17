@@ -1,6 +1,8 @@
 <?php
 // User home page after login
 // Home page layout
+
+// File naming standardized for maintainability
 session_start();
 include __DIR__ . '/../dbConfig.php';
 
