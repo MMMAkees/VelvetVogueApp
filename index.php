@@ -205,13 +205,13 @@ if ($offer_result && $offer_result->num_rows > 0) {
 
 <nav class="navbar navbar-expand-lg sticky-top shadow-sm">
   <div class="container">
-    <a class="navbar-brand" href="home.php">Velvet Vogue</a>
+    <a class="navbar-brand" href="index.php">Velvet Vogue</a>
     <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#nav">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="nav">
       <ul class="navbar-nav m-auto">
-        <li class="nav-item"><a class="nav-link active" href="home.php">Home</a></li>
+        <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
         <li class="nav-item"><a class="nav-link" href="shop.php">Shop</a></li> 
         <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
         <li class="nav-item"><a class="nav-link" href="aboutus.php">About us</a></li>
