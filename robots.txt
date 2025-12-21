@@ -1,0 +1,8 @@
+# Allow all search engines to index main pages
+User-agent: *
+Disallow: /admin/
+Disallow: /uploads/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://velvet-vogue-app.ct.ws/sitemap.xml
