@@ -1,12 +1,12 @@
-<!-- Database configuration file -->
 <?php
-$host = 'localhost';
-$db   = 'velvetvoguedb';
-$user = 'root';
-$pass = '';
+$servername = "sqlXXX.infinityfree.com";
+$username = "if0_12345";
+$password = "your_password";
+$dbname = "if0_12345_velvetvogue_db";
 
-$conn = new mysqli($host, $user, $pass, $db);
-if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
+$conn = mysqli_connect($servername, $username, $password, $dbname);
+
+if (!$conn) {
+    die("Connection failed: " . mysqli_connect_error());
 }
 ?>
