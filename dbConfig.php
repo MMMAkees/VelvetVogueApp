@@ -1,12 +1,12 @@
 <?php
-$servername = "sqlXXX.infinityfree.com";
-$username = "if0_12345";
-$password = "your_password";
-$dbname = "if0_12345_velvetvogue_db";
+$servername = "sql301.byetcluster.com";
+$username   = "if0_40730252";  
+$password   = "akees200416039";
+$dbname     = "if0_40730252_velvetvoguedb";
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 
 if (!$conn) {
-    die("Connection failed: " . mysqli_connect_error());
+    die("Database connection failed: " . mysqli_connect_error());
 }
 ?>
